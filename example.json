@@ -1,0 +1,17 @@
+{
+    "Firstname": "Radhika",
+    "LastName": "Arora",
+    "Hobbies": ["Badminton", "Cricket", "Dancing"],
+    "Age": 21,
+    "isMarried": false,
+    "Parent":[
+        {
+            "Father's Name": "Anjani Arora",
+            "age": 52
+        }, 
+        {
+            "Mother's Name": "Ranjana Arora",
+            "age": 47
+        }
+    ]
+}
