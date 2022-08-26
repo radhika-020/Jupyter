@@ -1,0 +1,9 @@
+{
+    "name": "Radhika", 
+    "age": 21, 
+    "isMarried": false, 
+    "Titles": [
+        "Engineer",
+         "Programmer"
+        ]
+}
